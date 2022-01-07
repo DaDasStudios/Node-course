@@ -1,0 +1,27 @@
+
+i {
+    margin: 0 5px; 
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+    background: #7474BF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.btn-primary {
+    width: 100%;
+}
+.form-group{
+    margin: 5px;
+}
+
